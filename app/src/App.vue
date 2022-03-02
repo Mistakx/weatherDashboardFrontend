@@ -1,15 +1,18 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <MapMistakx/>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import MapMistakx from './components/MapMistakx.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
+    MapMistakx
   }
 }
 </script>
