@@ -1,4 +1,4 @@
-# weather_frontend
+# client
 
 ## Project setup
 ```
